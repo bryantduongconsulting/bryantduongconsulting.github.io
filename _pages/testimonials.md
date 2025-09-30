@@ -5,8 +5,6 @@ title: "Testimonials"
 author_profile: true
 ---
 
-## Testimonials
-
 "Bryant is incredibly skilled in the academic writing process and crafting compelling Statements of Purpose that highlights your strengths with clarity and impact. His precise attention to detail, helpful feedback and narrative finesse makes him the perfect go-to for SOP writing. Would highly recommend :)" - AB, Graduate School Admissions (CS)
 
 "Bryant helped me prepare for job interviews, going step by step and explaining how to talk about my experiences in a relevant way to a software engineering position despite not having any prior internships. He also helped me fix my resume to be more professional. I highly recommend Bryant if you need to find a SWE job out of undergrad." - KL, Software Engineering Career Counsulting
