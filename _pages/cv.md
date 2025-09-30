@@ -11,26 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Genomics & Computational Biology, University of Pennsylvania
+* Master's in Computer & Information Technology, University of Pennsylvania, 2024
+* MBA, UC Davis, 2022
+* BA in Cognitive Science, UC Berkeley, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019 - 2025: Junior through Senior Software Engineer
+  * Optum
+  * Duties includes: Mentorship of undergraduate interns and junior engineers, Scrum Master, Architecting data ETL/transparency solutions
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2024 - Summer 2025: Research Assistant
+  * The Wistar Institute
+  * Duties included: Code Implementation, Statistical Testing, Methods contributions on several PhD projects
+  * PI: Noam Auslander
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2023: Summer Research Intern
+  * National Library of Medicine, NIH
+  * Duties included: Methods Development, Poster Presentation
+  * Mentor: Qingyu Chen, PI: Zhiyong Lu
   
 Skills
 ======
