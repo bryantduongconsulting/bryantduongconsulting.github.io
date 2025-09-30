@@ -62,4 +62,5 @@ Lessons will be scheduled virtually with client with the following rules:
 * Separate services each of 3 round adhoc review for technical/quantitative careers
 
 
-* - Humanities are selectively offered, including but not limited to the following: Psychology, Sociology, Public Policy/Political Science, Art History. Please inquire in initial meeting
+
+*** *= Humanities are selectively offered, including but not limited to the following: Psychology, Sociology, Public Policy/Political Science, Art History. Please inquire in initial meeting***
