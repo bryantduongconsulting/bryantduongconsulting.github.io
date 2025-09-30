@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Bryant Duong Consulting"
+title: "Who We Are"
 author_profile: true
 redirect_from: 
   - /about/
