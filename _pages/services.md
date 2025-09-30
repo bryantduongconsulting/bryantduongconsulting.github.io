@@ -21,6 +21,8 @@ I earned a BA in Cognitive Science at Berkeley, MBA at University of California 
 
 My students regularly see admissions to the top 25-50 universities. Some examples include Penn, UC Irvine, Meta, and various companies/start ups. Please see [testimonials](https://bryantduongconsulting.github.io/testimonials/).
 
+Please schedule an initial discovery meeting [here](https://calendly.com/bryanttduong/30min).
+
 ## Meeting Scheduling
 
 Lessons will be scheduled virtually with client with the following rules:
