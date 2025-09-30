@@ -17,7 +17,7 @@ I have tutored/assisted many undergraduate level to graduate level students sinc
 I earned a BA in Cognitive Science at Berkeley, MBA at University of California - Davis, and Masters in CS at the University of Pennsylvania with the following competitive awards/scholarships.
 * Regents & Chancellor's Scholarship - Berkeley
 * Stokes Scholarship (full tuition) - Berkeley
-* Fontain Scholar Award - Penn
+* Fontaine Scholar Award - Penn
 
 My students regularly see admissions to the top 25-50 universities. Some examples include Penn, UC Irvine, Meta, and various companies/start ups. Please see [testimonials](https://bryantduongconsulting.github.io/testimonials/).
 

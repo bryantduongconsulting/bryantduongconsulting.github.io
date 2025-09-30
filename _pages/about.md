@@ -13,4 +13,4 @@ With a multi-disciplinary experience that crosses the academic, corporate, and t
 
 Do not leave your most important milestones up to chance. Invest in your tomorrow and achieve a winning advantage with the Bryant Duong Consulting process. Let us be your dedicated partner, guiding you toward an ambitious tomorrow marked by clarity, purpose, and achievement.
 
-See our services in the tab above! Whether that be academic admissions or technical consulting, we have you covered!
+See our services in the navigation tabs above! Whether that be academic admissions or technical consulting, we have you covered! Not sure what you need? No problem - schedule an initial discovery meeting [here](https://calendly.com/bryanttduong/30min).
