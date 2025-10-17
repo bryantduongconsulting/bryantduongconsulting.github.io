@@ -14,8 +14,8 @@ main:
   - title: "Testimonials"
     url: /testimonials/    
 
-  - title: "Technical"
-    url: /tech_consult/    
+  - title: "招生咨询"
+    url: /admissions_cn/    
     
   # - title: "Portfolio"
   #  url: /portfolio/
