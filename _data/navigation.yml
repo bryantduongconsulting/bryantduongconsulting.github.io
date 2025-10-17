@@ -9,13 +9,13 @@
 
 main:
   - title: "Admissions"
-    url: /admissions/
-
-  - title: "Testimonials"
-    url: /testimonials/    
+    url: /admissions/ 
 
   - title: "招生咨询"
-    url: /admissions_cn/    
+    url: /admissions_cn/
+
+  - title: "Testimonials"
+    url: /testimonials/   
     
   # - title: "Portfolio"
   #  url: /portfolio/
